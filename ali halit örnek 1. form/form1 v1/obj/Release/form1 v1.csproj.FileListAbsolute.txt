@@ -1,0 +1,10 @@
+C:\Users\technopc\source\repos\form1 v1\form1 v1\bin\Release\form1 v1.exe.config
+C:\Users\technopc\source\repos\form1 v1\form1 v1\bin\Release\form1 v1.exe
+C:\Users\technopc\source\repos\form1 v1\form1 v1\bin\Release\form1 v1.pdb
+C:\Users\technopc\source\repos\form1 v1\form1 v1\obj\Release\form1 v1.csproj.AssemblyReference.cache
+C:\Users\technopc\source\repos\form1 v1\form1 v1\obj\Release\form1_v1.Form1.resources
+C:\Users\technopc\source\repos\form1 v1\form1 v1\obj\Release\form1_v1.Properties.Resources.resources
+C:\Users\technopc\source\repos\form1 v1\form1 v1\obj\Release\form1 v1.csproj.GenerateResource.cache
+C:\Users\technopc\source\repos\form1 v1\form1 v1\obj\Release\form1 v1.csproj.CoreCompileInputs.cache
+C:\Users\technopc\source\repos\form1 v1\form1 v1\obj\Release\form1 v1.exe
+C:\Users\technopc\source\repos\form1 v1\form1 v1\obj\Release\form1 v1.pdb
